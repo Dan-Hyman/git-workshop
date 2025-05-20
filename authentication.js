@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 abcd
-=======
 abcd
->>>>>>> main
